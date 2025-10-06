@@ -22,10 +22,6 @@ env/
 vectorstore/
 chroma.sqlite3
 
-# PDF data files
-data/
-*.pdf
-
 # IDE files
 .vscode/
 .idea/
